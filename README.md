@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefan-carter
 - 👀 I am working as a Software Developer.
-- 🌱 I’m currently learning Java, SQL, JavaScript, HTML and CSS. 
+- 🌱 I’m currently learning Java and Spring. 
 
 <!---
 stefan-carter/stefan-carter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
